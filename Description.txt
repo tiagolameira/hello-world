@@ -1,7 +1,5 @@
-Adicionei este ficheiro para fazer 
-mais testes com linhas
-e para ver
-que as Pull Requests
-funcionam 
+Adicionei este ficheiro para fazer mais testes com Pull Requests
+
+
 Resultado : 
-As pull requests não funcionam!
+As pull requests funcionam!
